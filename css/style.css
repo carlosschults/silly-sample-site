@@ -1,0 +1,20 @@
+body {
+    background-color: bisque;
+    margin: 50;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    color: brown;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    color: blueviolet;
+}
+
+  footer {
+    font-style: italic;
+  }
